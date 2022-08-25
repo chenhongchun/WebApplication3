@@ -10,6 +10,7 @@
 
         public string Show()
         {
+            string ddd;
             return _Configuration["names"];
         }
     }
