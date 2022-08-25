@@ -10,9 +10,7 @@
 
         public string Show()
         {
-            string ddd;
-            ///
-            string ddddd = "";
+            string str = string.Empty;
             return _Configuration["names"];
         }
     }
